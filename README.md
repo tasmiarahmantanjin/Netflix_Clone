@@ -27,10 +27,10 @@ https://netflix-clone-12de9.web.app/
 - Clone repository and install dependencies:
 
 ```bash
-- https://github.com/tasmiarahmantanjin/Netflix_Clone
-- cd Netflix_Clone
-- npm install
-- npm start
+* https://github.com/tasmiarahmantanjin/Netflix_Clone
+* cd Netflix_Clone
+* npm install
+* npm start
 ```
 ## **How to Test**
 
