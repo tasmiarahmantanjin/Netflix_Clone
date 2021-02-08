@@ -32,6 +32,13 @@ $ cd Netflix_Clone
 $ npm install
 $ npm start
 ```
+## **How to Test**
+
+- Create a user account
+- Sign in with the created account
+- Subscribe to a a package
+- Use payment system for the subscription confirmation
+- You are ready to WATCH & Netflix & Chill !!!
 
 ## **How to sign in App**
 
@@ -39,7 +46,7 @@ $ npm start
 
   - Tasmia Rahman
 
-    - Email: test@gmail.com
+    - Email: testemail@gmail.com
     - Password: testabc
 
   - Hello Test
