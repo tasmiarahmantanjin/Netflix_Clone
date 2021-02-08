@@ -42,17 +42,13 @@ $ npm start
 
 ## **How to sign in App**
 
-- You can sign in with 2 fake users:
+- You can sign in with following fake user:
 
   - Tasmia Rahman
 
     - Email: testemail@gmail.com
     - Password: testabc
 
-  - Hello Test
-
-    - Email: hello@gmail.com
-    - Password: test123
 
 ## **How to process fake payment with fake card information**
 
