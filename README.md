@@ -8,7 +8,7 @@
 
 https://netflix-clone-12de9.web.app/
 
-## **Tech Stack**
+## **Technology Used**
 - React
 - Redux
 - HTML/CSS
@@ -54,4 +54,15 @@ $ npm start
     - Email: hello@gmail.com
     - Password: test123
 
-## **How to process fake payment**
+## **How to process fake payment with fake card information**
+
+```bash
+- CARD INFORMATION
+	- Card Number: 4242 4242 4242 4242
+	- Expiry Date: 04 / 24
+	- CVC: 424
+```
+
+## 🙋‍♀️ **Author**
+
+[Tasmia Rahman](https://github.com/tasmiarahmantanjin)
